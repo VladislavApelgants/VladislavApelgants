@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 ⚡ Fun fact: Horses die from work, but I'm an immortal pony
 <br>
 <br>
-Technologies <br>
+Technologies 
+<br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nestjs,mongodb,npm,react,nextjs,emotion,redux,sass,tailwind,express,jest)](https://skillicons.dev)
 
-Tools <br>
+Tools 
+<br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,github)](https://skillicons.dev)
 
-<br>
 <br>
 <br>
 
