@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFB902&background=83838300&center=true&repeat=false&random=false&width=800&height=80&lines=Hi+there!%F0%9F%91%8B+I'm+not+looking+for+anything%2C+just+peace)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFB902&background=83838300&center=true&repeat=false&random=false&width=800&height=80&lines=Hi+there!%F0%9F%91%8B+I'm+not+looking+for+anything%2C+just+peace)](https://git.io/typing-svg)
 
 <!--
 **VladislavApelgants/VladislavApelgants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
