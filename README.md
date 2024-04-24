@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-fawn.vercel.app/api?username=VladislavApelgants&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants&theme=midnight-purple)
-![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants&layout=donut-vertical&theme=midnight-purple)
+![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants&theme=midnight-purple)
