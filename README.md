@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Horses die from work, but I'm an immortal pony
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nestjs,mongodb,npm,react,nextjs,emotion,redux,sass,tailwind,docker,express,figma,git,github,jest)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nestjs,mongodb,npm,react,nextjs,emotion,redux,sass,tailwind,docker,express,figma,git,github,jest)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-fawn.vercel.app/api?username=VladislavApelgants&show_icons=true&theme=midnight-purple)]
-[![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants)]
-[![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants&layout=donut-vertical)]
+![Anurag's GitHub stats](https://github-readme-stats-sigma-fawn.vercel.app/api?username=VladislavApelgants&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants)
+![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants&layout=donut-vertical)
