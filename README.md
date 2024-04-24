@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nestjs,mongodb,npm,react,nextjs,emotion,redux,sass,tailwind,docker,express,figma,git,github,jest)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-fawn.vercel.app/api?username=VladislavApelgants&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants&layout=donut&theme=midnight-purple)
