@@ -1,4 +1,4 @@
-### Hi there! I'm not looking for anything, just peace 👋
+### Hi there!👋 I'm not looking for anything, just peace 
 
 <!--
 **VladislavApelgants/VladislavApelgants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Fun fact: Horses die from work, but I'm an immortal pony
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-fawn.vercel.app/api?username=VladislavApelgants&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
