@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ⚡ Fun fact: Horses die from work, but I'm an immortal pony
+<br>
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nestjs,mongodb,npm,react,nextjs,emotion,redux,sass,tailwind,docker,express,figma,git,github,jest)](https://skillicons.dev)
 
