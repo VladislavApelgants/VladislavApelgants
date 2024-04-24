@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Horses die from work, but I'm an immortal pony
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nestjs,mongodb,npm)](https://skillicons.dev)
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-fawn.vercel.app/api?username=VladislavApelgants&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
