@@ -31,5 +31,5 @@ Tools
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-fawn.vercel.app/api?username=VladislavApelgants&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats-sigma-fawn.vercel.app/api/top-langs/?username=VladislavApelgants&layout=donut&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavApelgants&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavApelgants&layout=donut&theme=midnight-purple)
